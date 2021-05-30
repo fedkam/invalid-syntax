@@ -4,10 +4,14 @@ const colors = {
     },
     gray: {
         _300: '#828282',
+        _400: '#BDBDBD',
         _500: '#E0E0E0',
     },
     rose: {
         _200: '#FF0066',
+    },
+    red: {
+        _200: '#D65455'
     }
 }
 
@@ -29,6 +33,7 @@ const fonts = {
         _14: '14px',
         _12: '12px',
         _11: '11px',
+        _10: '10px',
     },
     letterSpacing: {},
     weight: {},
