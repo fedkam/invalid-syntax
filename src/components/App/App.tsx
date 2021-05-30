@@ -1,7 +1,6 @@
 import React from 'react';
 import { BreakpointProvider } from 'react-socks';
 import { BrowserRouter as Router } from 'react-router-dom'
-import './App.css';
 import { EaptekaTheme } from '../../common/GlobalTheme'
 
 const App = () => (

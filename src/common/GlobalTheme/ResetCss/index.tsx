@@ -6,7 +6,7 @@ export const ResetCss = createGlobalStyle`
     *::before,
     *::after {
       box-sizing: border-box;
-      font-family: Arial, sans-serif;
+      font-family: 'SB Sans Text';
     }
 
     /* Remove default margin */

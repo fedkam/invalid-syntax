@@ -86,8 +86,8 @@
       <stop offset="1" stop-color="#62A5E6"/>
     </linearGradient>
     <linearGradient id="paint4_linear" x1="193166" x2="363196" y1="229952" y2="610572" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFC444"/>
-      <stop offset="1" stop-color="#F36F56"/>
+      <stop stop-color="#236DE8"/>
+      <stop offset="1" stop-color="#236DE8"/>
     </linearGradient>
     <linearGradient id="paint5_linear" x1="105451" x2="79982.1" y1="-16399.9" y2="196668" gradientUnits="userSpaceOnUse">
       <stop stop-color="#8EDCF4"/>
